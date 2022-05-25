@@ -1,2 +1,2 @@
-# SimpleVotingApp
-SimpleVotingApp with React Class Component
+# SimpleVotingApp with React Class Component
+
